@@ -10,6 +10,6 @@ A Java-based mobile recommendation system that allows users to find the best mob
 # Installation
 
  -Clone the Repository:
-   git clone https://github.com/your-username/Mobile-Recommendation-System.git
+   git clone https://github.com/tahermadraswala786/Mobile-Recommendation-System.git
    cd Mobile-Recommendation-System
 
